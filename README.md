@@ -23,15 +23,10 @@ In the project directory, you can find :
 
 ## Screenshots
 
-![Screenshot 1](https://user-images.githubusercontent.com/86161015/130052174-d9ebef10-3c13-4340-b4cf-fca47dac0aac.png)
+Screenshot 1: <br>
+![Screenshot 1](https://user-images.githubusercontent.com/86161015/130052174-d9ebef10-3c13-4340-b4cf-fca47dac0aac.png)<br><br>
 
 
-
-
-Borders & Fonts: </br>
-![Border Fonts](C:\Users\Rahul\Pictures\Screenshots\Screenshot (811)</br></br>
-Text: </br>
-![Text](https://user-images.githubusercontent.com/56954344/129965539-a0c7ff5c-8526-453f-8362-3a597e067aa7.png)</br></br>
 Animation: </br>
 ![Animation](https://user-images.githubusercontent.com/56954344/129965525-6bfb2ba4-4128-479e-a034-b9866f0af2f4.png)</br>
 
