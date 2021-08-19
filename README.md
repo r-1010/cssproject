@@ -7,7 +7,7 @@ This project was made with the use of HTML Tags & CSS Properties.
 
 ## CSS Properties Used:
 
-We have used external Cascading Style Sheet as well as inline so as to get a complete overview on how CSS works and how each property affects the component in a different way.
+There are various ways of css implementation but i've made use of external css implementation in this project.
 
 In the project directory, you can find :
 
@@ -24,7 +24,7 @@ In the project directory, you can find :
 ## Screenshots
 
 Borders & Fonts: </br>
-![Border Fonts](https://user-images.githubusercontent.com/56954344/129965534-fa3f80a2-0b23-4808-a5c2-5549b81e7df8.png)</br></br>
+![Border Fonts](C:\Users\Rahul\Pictures\Screenshots\Screenshot (811)</br></br>
 Text: </br>
 ![Text](https://user-images.githubusercontent.com/56954344/129965539-a0c7ff5c-8526-453f-8362-3a597e067aa7.png)</br></br>
 Animation: </br>
