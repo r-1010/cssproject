@@ -44,7 +44,7 @@ To find more properties and functions visit [W3Schools](https://www.w3schools.co
 
 <ul
     <li></li>
-    <li><a href = "https://www.w3schools.com/css/css_text_align.asp"/>https://www.w3schools.com/css/css_text_align.asp</li>
+    <li><a href = "https://www.w3schools.com/css/css_text_align.asp"/>https://www.w3schools.com/cssref/</li>
     <li><a href = "https://www.thoughtco.com/index-html-page-3466505"/>https://www.thoughtco.com/index-html-page-3466505</li>
     <li><a href = "https://www.creativebloq.com/inspiration/css-animation-examples"/>https://www.creativebloq.com/inspiration/css-animation-examples</li>
     </ul>
