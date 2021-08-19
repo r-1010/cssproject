@@ -23,12 +23,14 @@ In the project directory, you can find :
 
 ## Screenshots
 
-Screenshot 1: <br>
+Screenshot 1: <br><br>
 ![Screenshot 1](https://user-images.githubusercontent.com/86161015/130052174-d9ebef10-3c13-4340-b4cf-fca47dac0aac.png)<br><br>
 
+Screenshot 2: <br><br>
+![Screenshot (812)](https://user-images.githubusercontent.com/86161015/130052538-c84a2bef-3f30-4403-9c0d-a4e37342c1a2.png)<br><br>
 
-Animation: </br>
-![Animation](https://user-images.githubusercontent.com/56954344/129965525-6bfb2ba4-4128-479e-a034-b9866f0af2f4.png)</br>
+Screenshot 3: >br><br>
+![Screenshot (813)](https://user-images.githubusercontent.com/86161015/130052599-9c5ff204-9430-48cd-9e3e-a31cb83fc861.png)
 
 <br><br>
 
